@@ -41,4 +41,5 @@ Author
 Emanuele Venetucci
 
 ## Example Output
-![Plots](images\plots.png)
+<img width="1800" height="500" alt="plots" src="https://github.com/user-attachments/assets/909ace95-d6f6-4c98-8534-b0e5264263c5" />
+
